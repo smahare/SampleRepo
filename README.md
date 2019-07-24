@@ -1,4 +1,4 @@
-# Welcome to hqTestLite!
+# Welcome to hqTestLite1!
 
 **hqTestLite** is an open-source, PowerShell-based testing framework. It is designed to automate the testing of complex systems (like [Enterprise Data Management](https://en.wikipedia.org/wiki/Enterprise_data_management) systems) that normally resist efficient test automation.
 
